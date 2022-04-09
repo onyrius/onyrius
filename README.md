@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=onyrius&label=Profile%20views&color=0e75b6&style=flat" alt="onyrius" /> </p>
+
 <h1 align="center">Onyrius</h1>
 <h3 align="center">A passionate artist becoming developer web</h3>
 
@@ -5,7 +7,6 @@
 
 <p align="center">And my nickname is Onyrius. I created this name when I was an plastic artist and I decided to bring it with me because his symbolic  <a href='https://dictionary.cambridge.org/pt/dicionario/ingles/oneiric' target='_target'>meaning</a> is my life!!! Tell about how I arrived here: the life is like a dream and can bring you the greatest things! </p> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onyrius&label=Profile%20views&color=0e75b6&style=flat" alt="onyrius" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
