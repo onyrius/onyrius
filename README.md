@@ -5,7 +5,7 @@
 
 <h2 align="center">Hi 👋, I'm Suelen Arruda</h2>
 
-<p align="center">And my nickname is Onyrius. I created this name when I was an plastic artist and I decided to bring it with me because his symbolic  <a href='https://dictionary.cambridge.org/pt/dicionario/ingles/oneiric' target='_target'>meaning</a> is my life!!! Tell about how I arrived here: the life is like a dream and can bring you the greatest things! </p> 
+<p align="center">And my nickname is Onyrius. I created this name when I was an plastic artist and I decided to bring it with me because his symbolic  <a href='https://dictionary.cambridge.org/pt/dicionario/ingles/oneiric' target='_target'>meaning</a> is my life!!! It tells about how I arrived here: the life is like a dream and can bring you the greatest things! And now I am a web devolper with all my passion and art.  Solving logic problems is my life and I've never been happier :heart_eyes:</p> 
 
 <br/>
 <h3 align="left"> Need help? Contact me!! I love solve problems!! :heart:</h3>
