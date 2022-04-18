@@ -13,7 +13,7 @@
 <a href="www.linkedin.com/in/suelen-arruda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suelen arruda" height="30" width="40" /></a>
 </p>
 
-<img align="right" src="octome.png" width="500"/>
+<img align="right" src="octome.png#gh-light-mode-only" width="500"/>
 
 <br/>
 
