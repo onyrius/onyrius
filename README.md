@@ -50,10 +50,9 @@
 
 </p>
 
----
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onyrius&show_icons=true&locale=en&layout=compact" alt="onyrius" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=onyrius&show_icons=true&locale=en&layout=compact" alt="onyrius" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onyrius&show_icons=true&locale=en" alt="onyrius" /></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onyrius&show_icons=true&locale=en" alt="onyrius" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onyrius&" alt="onyrius" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onyrius&" alt="onyrius" /></p>
