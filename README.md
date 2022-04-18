@@ -14,6 +14,8 @@
 </p>
 
 <img align="right" src="octome.png#gh-light-mode-only" width="500"/>
+<img align="right" src="octome-dark-mode.png#gh-dark-mode-only" width="500"/>
+
 
 <br/>
 
