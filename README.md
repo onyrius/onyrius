@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<img align="right" src="octome.png#gh-light-mode-only" width="500"/>
+<img align="right" src="octome.png#gh-light-mode-only" width="450"/>
 <img align="right" src="octome-dark-mode.png#gh-dark-mode-only" width="600"/>
 
 
@@ -65,11 +65,11 @@
 </p>
 
 
-<p ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=onyrius&show_icons=true&locale=en&layout=compact" alt="onyrius" /></p>
+<p align="left" ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=onyrius&show_icons=true&locale=en&layout=compact" alt="onyrius" /></p>
 
 
 
-<p>
+<p align="right">
   &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=onyrius&show_icons=true&locale=en" alt="onyrius" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=onyrius&" alt="onyrius" />
 </p>
