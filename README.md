@@ -65,11 +65,9 @@
 </p>
 
 
-<p align="left" ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=onyrius&show_icons=true&locale=en&layout=compact" alt="onyrius" /></p>
-
-
-
-<p align="right">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=onyrius&show_icons=true&locale=en&layout=compact" alt="onyrius" />
+<br/>
+<p>
   &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=onyrius&show_icons=true&locale=en" alt="onyrius" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=onyrius&" alt="onyrius" />
 </p>
