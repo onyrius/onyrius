@@ -10,7 +10,7 @@
 <br/>
 <h3 align="left"> Need help? Contact me!! I love solve problems!! :heart:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/suelen-arruda/" target="blank">
+<a href="https://www.linkedin.com/in/suelen-arruda/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suelen arruda" height="30" width="40" />
   </a>
   <a href="mailto:suelenonyrius@gmail.com" target="blank">
