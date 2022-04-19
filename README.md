@@ -10,13 +10,13 @@
 <br/>
 <h3 align="left"> Need help? Contact me!! I love solve problems!! :heart:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/suelen-arruda" target="_blank">
+<a href="https://www.linkedin.com/in/suelen-arruda/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suelen arruda" height="30" width="40" />
   </a>
   <a href="mailto:suelenonyrius@gmail.com" target="blank">
     <img align="center" src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png" alt="suelen arruda" height="30" width="40" />
   </a>
-  <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5547997956472" target="_blank">
+  <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5547997956472" target="blank">
      <img align="center" src="https://i0.wp.com/multarte.com.br/wp-content/uploads/2018/11/whatsapp-logo-1.png?w=1392&ssl=1" alt="suelen arruda" height="40" width="40" />
   </a>
 </p>
