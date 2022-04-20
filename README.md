@@ -7,24 +7,8 @@
 
 <p align="center">And my nickname is Onyrius. I created this name when I was an plastic artist and I decided to bring it with me because his symbolic  <a href='https://dictionary.cambridge.org/pt/dicionario/ingles/oneiric' target='_target'>meaning</a> is my life!!! This tells about how I arrived here: the life is like a dream and can bring you the greatest things! And now I am a web devolper with all my passion and art.  Solving logic problems is my life and I've never been happier :heart_eyes:</p> 
 
-<h3 align="left"> Need help? Contact me!! I love solve problems!! :heart:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/suelen-arruda/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suelen arruda" height="30" width="40" />
-  </a>
-  <a href="mailto:suelenonyrius@gmail.com" target="blank">
-    <img align="center" src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png" alt="suelen arruda" height="30" width="40" />
-  </a>
-  <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5547997956472" target="blank">
-     <img align="center" src="https://i0.wp.com/multarte.com.br/wp-content/uploads/2018/11/whatsapp-logo-1.png?w=1392&ssl=1" alt="suelen arruda" height="40" width="40" />
-  </a>
-</p>
-
-<img align="right" src="octome.png#gh-light-mode-only" width="400 em"/>
-<img align="right" src="octome-dark-mode.png#gh-dark-mode-only" width="600"/>
-
-
-<br/>
+<img align="right" src="octome.png#gh-light-mode-only" width="400em"/>
+<img align="right" src="octome-dark-mode.png#gh-dark-mode-only" width="600em"/>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -65,9 +49,25 @@
 
 <br/>
 
-<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=onyrius&show_icons=true&locale=en&layout=compact" alt="onyrius" />
+<h3 align="left"> Need help? Contact me!! I love solve problems!! :heart:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/suelen-arruda/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suelen arruda" height="30" width="40" />
+  </a>
+  <a href="mailto:suelenonyrius@gmail.com" target="blank">
+    <img align="center" src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png" alt="suelen arruda" height="30" width="40" />
+  </a>
+  <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5547997956472" target="blank">
+     <img align="center" src="https://i0.wp.com/multarte.com.br/wp-content/uploads/2018/11/whatsapp-logo-1.png?w=1392&ssl=1" alt="suelen arruda" height="40" width="40" />
+  </a>
+</p>
 
 <br/>
+
+
+<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=onyrius&show_icons=true&locale=en&layout=compact" alt="onyrius" />
+
+
 
 <p>
   &nbsp;<img  width="450em" src="https://github-readme-stats.vercel.app/api?username=onyrius&show_icons=true&locale=en" alt="onyrius" />
