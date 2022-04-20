@@ -65,11 +65,11 @@
 
 <br/>
 
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs?username=onyrius&show_icons=true&locale=en&layout=compact" alt="onyrius" />
+<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=onyrius&show_icons=true&locale=en&layout=compact" alt="onyrius" />
 
 <br/>
 
-<p width="800em">
+<p>
   &nbsp;<img  width="450em" src="https://github-readme-stats.vercel.app/api?username=onyrius&show_icons=true&locale=en" alt="onyrius" />
   <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=onyrius&" alt="onyrius" />
 </p>
