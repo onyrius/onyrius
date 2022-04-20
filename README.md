@@ -69,8 +69,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onyrius&show_icons=true&locale=en&layout=compact" alt="onyrius" />
 
 <p align="left" >
-  &nbsp;<img align="left"  width="500em" src="https://github-readme-stats.vercel.app/api?username=onyrius&show_icons=true&locale=en" alt="onyrius" />
-  <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=onyrius&" alt="onyrius" />
+  &nbsp;<img align="left"  width="400em" src="https://github-readme-stats.vercel.app/api?username=onyrius&show_icons=true&locale=en" alt="onyrius" />
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=onyrius&" alt="onyrius" />
 </p>
 
 ![snake gif](https://github.com/onyrius/onyrius/blob/output/github-contribution-grid-snake.svg)
