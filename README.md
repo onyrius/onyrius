@@ -10,7 +10,7 @@
 <img align="right" src="octome.png#gh-light-mode-only" width="400em"/>
 <img align="right" src="octome-dark-mode.png#gh-dark-mode-only" width="600em"/>
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 
 <p align="left"> 
   
