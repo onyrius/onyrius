@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onyrius&label=Profile%20views&color=0e75b6&style=flat" alt="onyrius" /> </p>
 
 <h1 align="center">Onyrius</h1>
-<h3 align="center">A passionate artist becoming developer web</h3>
+<h3 align="center">A passionate artist becoming web developer</h3>
 
 <h2 align="center">Hi 👋, I'm Suelen Arruda</h2>
 
