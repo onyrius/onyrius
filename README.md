@@ -7,7 +7,6 @@
 
 <p align="center">And my nickname is Onyrius. I created this name when I was an plastic artist and I decided to bring it with me because his symbolic  <a href='https://dictionary.cambridge.org/pt/dicionario/ingles/oneiric' target='_target'>meaning</a> is my life!!! This tells about how I arrived here: the life is like a dream and can bring you the greatest things! And now I am a web devolper with all my passion and art.  Solving logic problems is my life and I've never been happier :heart_eyes:</p> 
 
-<br/>
 <h3 align="left"> Need help? Contact me!! I love solve problems!! :heart:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/suelen-arruda/" target="_blank">
@@ -21,7 +20,7 @@
   </a>
 </p>
 
-<img align="right" src="octome.png#gh-light-mode-only" width="400"/>
+<img align="right" src="octome.png#gh-light-mode-only" width="400 em"/>
 <img align="right" src="octome-dark-mode.png#gh-dark-mode-only" width="600"/>
 
 
@@ -66,11 +65,13 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=onyrius&show_icons=true&locale=en&layout=compact" alt="onyrius" />
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs?username=onyrius&show_icons=true&locale=en&layout=compact" alt="onyrius" />
 
-<p align="left" >
-  &nbsp;<img align="left"  width="400em" src="https://github-readme-stats.vercel.app/api?username=onyrius&show_icons=true&locale=en" alt="onyrius" />
-  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=onyrius&" alt="onyrius" />
+<br/>
+
+<p width="800em">
+  &nbsp;<img  width="450em" src="https://github-readme-stats.vercel.app/api?username=onyrius&show_icons=true&locale=en" alt="onyrius" />
+  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=onyrius&" alt="onyrius" />
 </p>
 
 ![snake gif](https://github.com/onyrius/onyrius/blob/output/github-contribution-grid-snake.svg)
