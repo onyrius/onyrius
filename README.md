@@ -8,7 +8,6 @@
 <p align="center">And my nickname is Onyrius. I created this name when I was an plastic artist and I decided to bring it with me because his symbolic  <a href='https://dictionary.cambridge.org/pt/dicionario/ingles/oneiric' target='_target'>meaning</a> is my life!!! This tells about how I arrived here: the life is like a dream and can bring you the greatest things! And now I am a web devolper with all my passion and art.  Solving logic problems is my life and I've never been happier :heart_eyes:</p> 
 
 <img align="right" src="octome.png#gh-light-mode-only" width="400em"/>
-<img align="right" src="octome-dark-mode.png#gh-dark-mode-only" width="400em"/>
 
 <h4 align="left">Languages and Tools:</h4>
 
