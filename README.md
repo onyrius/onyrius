@@ -74,4 +74,4 @@
   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=onyrius&" alt="onyrius" />
 </p>
 
-![snake gif](https://github.com/onyrius/onyrius/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/onyrius/onyrius/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
