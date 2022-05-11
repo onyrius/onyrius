@@ -68,8 +68,14 @@
 </p>
 
 <br/>
-
 <p>
+
+  <h3> Resume </h3> 
+   <a href="https://gitconnected.com/onyrius/resume"><img src="https://cdn-icons-png.flaticon.com/512/345/345609.png"  width="70"/></a>
+   
+   <br/>
+   <br/>
+   
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=onyrius&show_icons=true&locale=en&layout=compact" alt="onyrius" />
   &nbsp;<img  width="400em" src="https://github-readme-stats.vercel.app/api?username=onyrius&show_icons=true&locale=en" alt="onyrius" />
   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=onyrius&" alt="onyrius" />
