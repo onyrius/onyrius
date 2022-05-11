@@ -56,6 +56,7 @@
 
 <h3 align="left"> Need help? Contact me!! I love solve problems!! :heart:</h3>
 <p align="left">
+   <a href="https://gitconnected.com/onyrius/resume" ><img src="https://cdn-icons-png.flaticon.com/512/52/52762.png"  align="center" height="40" width="40"/></a>
 <a href="https://www.linkedin.com/in/suelen-arruda/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suelen arruda" height="30" width="40" />
   </a>
@@ -65,14 +66,13 @@
   <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5547997956472" target="blank">
      <img align="center" src="https://i0.wp.com/multarte.com.br/wp-content/uploads/2018/11/whatsapp-logo-1.png?w=1392&ssl=1" alt="suelen arruda" height="40" width="40" />
   </a>
+   
 </p>
 
 <br/>
 <p>
 
-  <h3> Resume </h3> 
-   <a href="https://gitconnected.com/onyrius/resume"><img src="https://cdn-icons-png.flaticon.com/512/345/345609.png"  width="70"/></a>
-   
+  
    <br/>
    <br/>
    
