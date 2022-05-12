@@ -76,8 +76,8 @@
   <!-- light mode -->
   <div align="left">
     <a href="https://github.com/onyrius#gh-light-mode-only" title="onyrius profile">
+     <img width=396 src="https://github-readme-stats.vercel.app/api?username=onyrius&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy#gh-light-mode-only" />
     <img width=396 src="https://github-readme-streak-stats.herokuapp.com?user=onyrius&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D&border=BE34BE#gh-light-mode-only" alt="onyrius" />
- <img width=396 src="https://github-readme-stats.vercel.app/api?username=onyrius&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy#gh-light-mode-only" />
     </a>
   </div>
   <!-- dark mode -->
