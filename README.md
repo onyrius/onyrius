@@ -83,7 +83,7 @@
     </a>
   </div>
   <!-- dark mode -->
-  <div align=center>
+  <div align="left">
     <a href="https://github.com/onyrius#gh-dark-mode-only" title="onyrius profile">
       <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=onyrius&theme=react&border=61dafb&hide_border=true#gh-dark-mode-only" alt="SrTonn" />
       <img width=396 src="https://github-readme-stats.vercel.app/api?username=onyrius&show_icons=true&theme=react&border_color=61dafb&hide_border=true#gh-dark-mode-only" />
@@ -91,7 +91,7 @@
     </a>
   </div>
   <br>
-   <br/>
+  <br/>
    
 
 
