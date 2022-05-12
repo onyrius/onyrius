@@ -74,11 +74,25 @@
 
   
    <br/>
+  <!-- light mode -->
+  <div align=center>
+    <a href="https://github.com/onyrius#gh-light-mode-only" title="onyrius profile">
+      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=onyrius&theme=graywhite&border=61dafb&hide_border=true#gh-light-mode-only" alt="onyrius" />
+      <img width=396 src="https://github-readme-stats.vercel.app/api?username=onyrius&show_icons=true&theme=graywhite&border_color=61dafb&hide_border=true#gh-light-mode-only" />
+      <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=onyrius=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&langs_count=8&layout=compact&border_color=61dafb&hide_border=true#gh-light-mode-only" />
+    </a>
+  </div>
+  <!-- dark mode -->
+  <div align=center>
+    <a href="https://github.com/onyrius#gh-dark-mode-only" title="onyrius profile">
+      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=onyrius&theme=react&border=61dafb&hide_border=true#gh-dark-mode-only" alt="SrTonn" />
+      <img width=396 src="https://github-readme-stats.vercel.app/api?username=onyrius&show_icons=true&theme=react&border_color=61dafb&hide_border=true#gh-dark-mode-only" />
+      <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=onyrius&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true#gh-dark-mode-only" />
+    </a>
+  </div>
+  <br>
    <br/>
    
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=onyrius&show_icons=true&locale=en&layout=compact" alt="onyrius" />
-  &nbsp;<img  width="400em" src="https://github-readme-stats.vercel.app/api?username=onyrius&show_icons=true&locale=en" alt="onyrius" />
-  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=onyrius&" alt="onyrius" />
-</p>
+
 
 ![snake gif](https://github.com/onyrius/onyrius/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
