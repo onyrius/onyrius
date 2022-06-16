@@ -1,15 +1,24 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onyrius&label=Profile%20views&color=0e75b6&style=flat" alt="onyrius" /> </p>
 
+<img align="right" src="yogocat_animation.gif" width="300"/>
+
 <!-- ENGLISH -->
+
+<br/>
+<br/>
+<br/>
 
 <details>
 
 <summary><strong>🇬🇧 English 🇬🇧</strong></summary><br />
 
 <h1 align="center">Onyrius</h1>
+  
 <h3 align="center">A passionate artist becoming web developer</h3>
   
-  <h2 align="center">Hi 👋, I'm Suelen Arruda</h2>
+  <br/>
+  
+<h4>Hi 👋, I'm Suelen Arruda</h4>
 
 <p align="center">And my nickname is Onyrius. I created this name when I was a plastic artist and I decided to bring it to my new career  because his symbolic  <a href='https://dictionary.cambridge.org/pt/dicionario/ingles/oneiric' target='_target'>meaning</a> is my life!!! This tells about how I arrived here: the life is like a dream and can bring us incredible things!</p> 
 <h3 align="center">🚀📖 Welcome to my tech logbook 📖 🚀 </h3> <br/>
@@ -219,9 +228,10 @@
 <h1 align="center">Onyrius</h1>
 <h3 align="center">Uma artista apaixonada se tornando DEV</h3>
   
-  <h2 align="center">Oi 👋, Meu é Suelen Arruda</h2>
+  <h4> Olá! 👋, Meu é Suelen Arruda</h4>
 
-<p align="center">E meu apelido é Onyrius. eu criei este apelido quando eu era artista e decidi traze-lo para minha nova carreira porque seu <a href='https://dictionary.cambridge.org/pt/dicionario/ingles/oneiric' target='_target'>significado</a> simbólico é minha vida!!! Conta sobre como cheguei até aqui: a vida é como um sonho e pode nos trazer coisas incríveis!</p> 
+<p align="center">E meu apelido é Onyrius. eu criei este apelido quando eu trabalhava como artista. Decidi trazê-lo para minha nova carreira porque seu <a href='https://dictionary.cambridge.org/pt/dicionario/ingles/oneiric' target='_target'>simbolismo</a>  é minha vida e conta sobre como cheguei até aqui! A vida é como um sonho e pode nos trazer coisas incríveis!</p> 
+  
 <h3 align="center">🚀📖 Bem-vindas e bem-vindos ao meu diário de bordo tech 📖 🚀 </h3> <br/>
 
 <img align="right" src="octome.png#gh-light-mode-only" width="400em"/>
