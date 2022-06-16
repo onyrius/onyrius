@@ -83,7 +83,8 @@
  
    <br/>
   
-    <!-- light mode -->
+  <!-- light mode -->
+  
   <div align="left">
     <a href="https://github.com/onyrius#gh-light-mode-only" title="onyrius profile">
      <img width=396 src="https://github-readme-stats.vercel.app/api?username=onyrius&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy#gh-light-mode-only" />
@@ -191,7 +192,8 @@
  
    <br/>
   
-    <!-- light mode -->
+   <!-- light mode -->
+  
   <div align="left">
     <a href="https://github.com/onyrius#gh-light-mode-only" title="onyrius profile">
      <img width=396 src="https://github-readme-stats.vercel.app/api?username=onyrius&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy#gh-light-mode-only" />
@@ -293,7 +295,8 @@
  
    <br/>
   
-    <!-- light mode -->
+  <!-- light mode -->
+  
   <div align="left">
     <a href="https://github.com/onyrius#gh-light-mode-only" title="onyrius profile">
      <img width=396 src="https://github-readme-stats.vercel.app/api?username=onyrius&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy#gh-light-mode-only" />
