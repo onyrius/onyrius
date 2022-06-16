@@ -106,8 +106,6 @@
 </details>
 
 
-<!-- PORTUGUÊS -->
-
 
    <!-- Italiano -->
 
@@ -116,11 +114,11 @@
 <summary><strong>🇮🇹 Italiano 🇮🇹</strong></summary><br />
 
 <h1 align="center">Onyrius</h1>
-<h3 align="center">una artista appassionata diventando Software Developer</h3>
+<h3 align="center">un'artista appassionata che ha intrapreso un percorso per diventare Software Developer</h3>
   
   <h2 align="center">Ciao 👋, Il mio nome è Suelen Arruda</h2>
 
-<p align="center">E  il mio soprannome è Onyrius. Ho criato questo soprannome quando ho lavorato come artista e ho deciso di portarlo alla tecnologia con me perchè il  suo<a href='https://dictionary.cambridge.org/pt/dicionario/ingles/oneiric' target='_target'>significato</a> è tanto importante per me!!! Questo significato raconta su come sono arrivata qui. La vita è come un sogno che può portarci cose incredibili! Ecco perché la vita è bella ❤️</p> 
+<p align="center">E in arte è Onyrius. Ho creato questo nome di fantasia quando lavoravo come artista e ora ho deciso di portarlo nella tecnologia con me perchè il  suo<a href='https://dictionary.cambridge.org/pt/dicionario/ingles/oneiric' target='_target'>significato</a> è molto importante per me!!! Racconta di come sono arrivata fino a qui e che la vita è come un sogno che può condurci ad esperienze incredibili! La vita è bella. Viva la vita! ❤️</p> 
 <h3 align="center">🚀📖 Benvenute e Benvenuti nel mio diario di bordo tech 📖 🚀 </h3> <br/>
 
 <img align="right" src="octome.png#gh-light-mode-only" width="400em"/>
