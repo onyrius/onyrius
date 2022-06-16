@@ -120,7 +120,7 @@
   
   <h2 align="center">Ciao 👋, Il mio nome è Suelen Arruda</h2>
 
-<p align="center">E  il mio soprannome è Onyrius. Io ho criato questo soprannome quando ero una artista e ho risolto di usarlo qui nella tecnologia perchè il <a href='https://dictionary.cambridge.org/pt/dicionario/ingles/oneiric' target='_target'>significato</a>significato suo è tanto importante per me!!! Questo significato raconta su come sono arrivata qui. la vita è come un sogno che può portarci cose incredibili!</p> 
+<p align="center">E  il mio soprannome è Onyrius. Ho criato questo soprannome quando ho lavorato come artista e ho deciso di portarlo alla tecnologia con me perchè il  suo<a href='https://dictionary.cambridge.org/pt/dicionario/ingles/oneiric' target='_target'>significato</a> è tanto importante per me!!! Questo significato raconta su come sono arrivata qui. La vita è come un sogno che può portarci cose incredibili! Ecco perché la vita è bella ❤️</p> 
 <h3 align="center">🚀📖 Benvenute e Benvenuti nel mio diario di bordo tech 📖 🚀 </h3> <br/>
 
 <img align="right" src="octome.png#gh-light-mode-only" width="400em"/>
