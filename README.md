@@ -115,7 +115,7 @@
 <summary><strong>🇮🇹 Italiano 🇮🇹</strong></summary><br />
 
 <h1 align="center">Onyrius</h1>
-<h3 align="center">un artista appassionata diventando Software Developer</h3>
+<h3 align="center">una artista appassionata diventando Software Developer</h3>
   
   <h2 align="center">Ciao 👋, Il mio nome è Suelen Arruda</h2>
 
