@@ -2,6 +2,9 @@
 
 <img align="right" src="yogocat_animation.gif" width="300"/>
 
+<img align="right" src="https://cdn.doyou.com/articles/6a-1575918606525.gif=w1080" width="400"/>
+
+
 <!-- ENGLISH -->
 
 <br/>
