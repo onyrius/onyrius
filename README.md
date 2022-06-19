@@ -17,6 +17,8 @@
 
 <h1 align="center">Onyrius</h1>
   
+ <br/>
+  
 <h3 align="center">A passionate artist becoming web developer</h3>
   
   <br/>
