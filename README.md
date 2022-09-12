@@ -13,7 +13,7 @@
 
 <details>
 
-<summary><strong>🇬🇧 English 🇬🇧</strong></summary><br />
+<summary><strong>🇬🇧 About me 🇬🇧</strong></summary><br />
 
 <h1 align="center">Onyrius</h1>
   
@@ -125,7 +125,7 @@
 
 <details>
 
-<summary><strong>🇮🇹 Italiano 🇮🇹</strong></summary><br />
+<summary><strong>🇮🇹 Chi sono 🇮🇹</strong></summary><br />
 
 <h1 align="center">Onyrius</h1>
 <h3 align="center">un'artista appassionata che ha intrapreso un percorso per diventare Software Developer</h3>
@@ -228,7 +228,7 @@
 
 <details>
 
-<summary><strong>🇧🇷 Português 🇧🇷</strong></summary><br />
+<summary><strong>🇧🇷 Sobre mim 🇧🇷</strong></summary><br />
 
 <h1 align="center">Onyrius</h1>
 <h3 align="center">Uma artista apaixonada se tornando DEV</h3>
