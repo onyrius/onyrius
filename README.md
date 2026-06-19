@@ -4,7 +4,7 @@
 
 <img align="right" src="https://cdn.doyou.com/articles/6a-1575918606525.gif=w1080" width="400"/>
 
-![Languages GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=onyrius&layout=compact&langs_count=7&theme=default)
+![Languages GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=onyrius&layout=compact&langs_count=15&theme=default)
 
 <!-- ENGLISH -->
 
